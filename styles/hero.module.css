@@ -1,0 +1,12 @@
+.hero{
+    padding-top: 60px !important;
+    
+}
+.hero__content h5{
+    /* color: aquamarine; */
+    font-weight: 400;
+}
+.hero__img img{
+    padding-top: 60px;
+
+}

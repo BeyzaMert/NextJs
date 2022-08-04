@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Mingzat&display=swap');html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Mingzat', sans-serif;  scroll-behavior: smooth;
+  
+}
+
+a {
+  color: unset;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  background: #F8FDFF;
+}
+
+p{
+  color:#050101;
+  line-height:30px;
+}
+
+h1,h2,h3,h4,h5,h6{
+  color:#050101;
+}
+h2{
+  font-size: 2.5rem !important;
+}
+section{
+  padding-top: 150px;
+}
+footer{
+  padding-bottom: 20px;
+  padding-top: 60px;
+  border-top: 1px solid  #F8FDFF;
+}
+.primary__btn{
+  background: #18606C  !important;
+  padding: 7px 20px !important;
+  border: 1px solid #18606C!important; 
+  border-radius: 5px;
+  align-content: center;
+  
+} 
+.primary__btn a{
+  text-decoration: none;
+  color: #18606C;
+  background: transparent !important;
+}
+
+.secondary__btn{
+  background: transparent;
+  border: none;
+  outline: none;
+  padding: 7px 25px;
+}
+.secondary__btn a{
+  color: #18606C !important;
+}
+
+.primary__btn a:hover, .secondary_btn a:hover {
+  color: #18606C;
+}

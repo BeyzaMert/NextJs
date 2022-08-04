@@ -1,0 +1,41 @@
+.nav__menu{
+
+    display: flex;
+    align-items: center;
+    column-gap: 6rem;
+    padding: 10px;
+    margin-bottom:0px;
+    line-height: 100px;
+}
+
+.nav__menu a{
+    color: #000;
+    font-weight: 500;
+    font-size: 1.5rem;
+    text-decoration:none;
+    transition: 0.3s; 
+}
+
+.nav__menu a:hover{
+    color: #18606C;
+}
+
+.nav__menu :first-child{
+    color:#18606C;
+}
+/* yapan kişi
+.footer__creator h6{
+    text-align: left;
+    font-weight: 400;
+    color: aliceblue;
+}
+*/
+.footer__copyright{
+    border-top: 1px solid #00095D;
+
+}
+.footer__copyright p{
+    font-size: .8rem;
+    text-align: center;
+    padding-top: 20px;
+}

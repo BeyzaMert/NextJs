@@ -1,0 +1,22 @@
+.section__subtitle{
+    color:#540037 ;
+    font-weight: 400;
+    margin-left: 40px;
+    position: absolute;
+    text-align: center;
+    font-size: 45px;
+    left: 200px;
+    
+}
+/* yazının yanındaki çizgi
+.section__subtitle::before{
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: -40px;
+    width: 30px;
+    height: 1px;
+    background: blue;
+    color: black;
+}
+*/
